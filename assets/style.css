@@ -18,8 +18,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1%;
+    padding: 2%;
     background-color: var(--navy);
     color: var(--cream);
-
+    h1 {
+        font-size: 200%;
+    }
 }
