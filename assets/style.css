@@ -4,7 +4,7 @@
 
 :root {
     --navy: #161f46;
-    --cream: #fffaed;
+    --cream: #fffdf7;
     --red: #f4394f;
     --yellow: #f5d329;
     --highlight: #62def7;
@@ -43,6 +43,6 @@ main {
         padding: 20px;
         border-left: 10px var(--red) solid;
         border-radius: 15px;
-        margin-bottom: 10%;
+        margin-bottom: 10%; 
     }
 }
