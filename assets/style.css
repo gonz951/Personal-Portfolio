@@ -45,4 +45,17 @@ main {
         border-radius: 15px;
         margin-bottom: 10%; 
     }
+    p {
+        line-height: 25px;
+    }
+    img {
+        /* losing my mind 
+        Pick a proper image size next time, bozo. */
+        max-width: 20%;
+        height: 200px;
+        padding: 10px;
+        border: 3px #f4394f solid;
+        margin: 20px;
+        float: left;
+    }
 }
