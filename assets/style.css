@@ -63,7 +63,9 @@ main {
     margin: 5% 10%;
     /*border: 10px var(--red) solid; */
     color: var(--navy);
-    position: relative;
+    display:flex;
+    flex-wrap: wrap;
+    flex: 4;
 
     section {
         padding: 20px;
@@ -71,16 +73,6 @@ main {
         border-radius: 15px;
         margin-bottom: 10%; 
         line-height: 25px;
-    }
-
-    img {
-        position:relative;
-        /* losing my mind 
-        Pick a proper image size next time, bozo. */
-        max-width: 150px;
-        padding:0;
-        border: 3px #f4394f solid;
-        margin: 10px;
     }
 
     p {
@@ -104,9 +96,22 @@ main {
     margin: 10px;
 }
 
-#main-img {
-
+.example {
+    width: 50%;
+    border: 3px #f4394f solid;
+    justify-content: left;
+    margin: -4px -2px;
+    min-width: 20%;
+    flex-direction: row;
 }
+
+#main-img {
+    flex: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+    min-width: none;
+}
+
 
 footer {
     display: flex;
@@ -124,4 +129,13 @@ footer ul li{
     display: inline-block;
     padding: 15px;
     font-size: 115%;
+    a {
+        color: var(--highlight);
+    }
+}
+
+@media screen and (max-width: 500px){
+    .example {
+        width: 10%;
+    }
 }
