@@ -36,18 +36,16 @@ nav ul li {
     margin: 10px;
     a {
         color: var(--cream);
+        text-decoration: none;
     }
 }
 
-
-/*
 .underline-hover {
     display: inline-block;
     padding-bottom: 3px;
     position: relative;
 }
-*/
-/*
+
 .underline-hover::before {
     content: "";
     position: absolute;
@@ -58,14 +56,12 @@ nav ul li {
     background-color: var(--highlight);
     transition: 0.25s ease-out;
 }
-*/
-/*
+
 .underline-hover:hover::before {
     width: 92%;
     left: 0;
     right: auto;
 }
-*/
 
 main {
     margin: 5% 10%;
