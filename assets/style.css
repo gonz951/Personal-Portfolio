@@ -25,14 +25,15 @@ header {
     background-color: var(--navy);
     color: var(--cream);
     h1 {
-        font-size: 200%;
+        font-size: 210%;
     }
 }
 
 nav ul li{
     display: inline-block;
     padding: 15px;
-    font-size: 115%;
+    font-size: 135%;
+    margin: 10px;
 }
 
 .underline-hover {
@@ -47,9 +48,9 @@ nav ul li{
     right: 0;
     bottom: 0;
     width: 0;
-    height: 2px;
+    height: 3px;
     background-color: var(--highlight);
-    transition: width 0.25s ease-out;
+    transition: 0.25s ease-out;
 }
 
 .underline-hover:hover::before {
@@ -75,10 +76,8 @@ main {
     img {
         position:relative;
         /* losing my mind 
-        Pick a proper image size next time, bozo. */            max-width: 20%;
-        height: 200px;
-        width: 150px;
-        min-width: 150px;
+        Pick a proper image size next time, bozo. */
+        max-width: 150px;
         padding:0;
         border: 3px #f4394f solid;
         margin: 10px;
@@ -89,7 +88,40 @@ main {
     }
 
     h2 {
-        font-size: 120%;
+        font-size: 160%;
         text-decoration: 3px underline var(--navy);
+        padding-bottom: 2%;
     }
+}
+
+#contact-img {
+    position:relative;
+    height: 200px;
+    width: 150px;
+    min-width: 150px;
+    padding:0;
+    border: 3px #f4394f solid;
+    margin: 10px;
+}
+
+#main-img {
+
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+    background-color: var(--navy);
+    color: var(--cream);
+    h3 {
+        font-size: 150%;
+    }
+}
+
+footer ul li{
+    display: inline-block;
+    padding: 15px;
+    font-size: 115%;
 }
