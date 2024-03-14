@@ -29,19 +29,25 @@ header {
     }
 }
 
-nav ul li{
+nav ul li {
     display: inline-block;
     padding: 15px;
     font-size: 135%;
     margin: 10px;
+    a {
+        color: var(--cream);
+    }
 }
 
+
+/*
 .underline-hover {
     display: inline-block;
     padding-bottom: 3px;
     position: relative;
 }
-
+*/
+/*
 .underline-hover::before {
     content: "";
     position: absolute;
@@ -52,12 +58,14 @@ nav ul li{
     background-color: var(--highlight);
     transition: 0.25s ease-out;
 }
-
+*/
+/*
 .underline-hover:hover::before {
     width: 92%;
     left: 0;
     right: auto;
 }
+*/
 
 main {
     margin: 5% 10%;
