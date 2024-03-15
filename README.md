@@ -6,7 +6,7 @@ This website was made to be used as the place I keep all my websites; a portfoli
 
 It gave me a place to store my assignments, an opportunity to review the things I learned in the past couple weeks, and a challenge. Most of my learning was concerning CSS and links, mostly figuring out how to place everything on a page without it looking awkward. Things on this page are subject to change in the future, design-wise, but I feel satisfied for now.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -21,13 +21,14 @@ No installations needed! You just need the link:
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The navigation bar will take you to the places on the page with their respective titles.
+![nav bar function](assets/images/Screenshot.port.1.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The images under 'work' will take you to websites I've worked on.
+![image web links function](assets/images/Screenshot.port.2.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Lastly, the 'contact me' section contains all the info to contact me (links included). 
+![contact me section with contact info](assets/images/Screenshot.port.3.png)
 
 ## Credits
 
