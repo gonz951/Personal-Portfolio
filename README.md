@@ -6,6 +6,10 @@ https://www.geeksforgeeks.org/how-to-wrap-the-text-around-an-image-using-html-an
 https://www.tutorialspoint.com/how-to-create-links-to-sections-within-the-same-page-in-html !!
 https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=%F0%9F%A4%96%20SheCodes%20Athena%20says%3A&text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. !!
 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide !!
+
+https://www.educative.io/answers/how-to-add-a-link-to-an-image-in-html !!
+
 # Personal-Portfolio
 
 ## Description
@@ -42,13 +46,45 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Video guide on how to get the transitions in nav:
+https://www.youtube.com/watch?v=Kz96odltLQI
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Guide on using table instead of 'float' to get text next to images:
+https://www.geeksforgeeks.org/how-to-wrap-the-text-around-an-image-using-html-and-css/
 
-If you followed tutorials, include links to those here as well.
+Guide on adding links that navigate within the page:
+https://www.tutorialspoint.com/how-to-create-links-to-sections-within-the-same-page-in-html
+
+Guide on removing the default underline from links:
+https://tinyurl.com/display-none-link 
+
+Guide on adding links to images:
+https://www.educative.io/answers/how-to-add-a-link-to-an-image-in-html
+
+README guide template: 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
+
+Copyright (c) 2024 Paula 'Fel' Gonzalez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
