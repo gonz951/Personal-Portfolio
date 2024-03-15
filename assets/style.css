@@ -2,6 +2,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+/* yellow will be used in the future */
 :root {
     --navy: #0f1534;
     --cream: #fffdf7;
@@ -41,6 +42,7 @@ nav ul li {
     }
 }
 
+/* CSS for the transition underline in nav */
 .underline-hover {
     display: inline-block;
     padding-bottom: 3px;
@@ -64,9 +66,9 @@ nav ul li {
     right: auto;
 }
 
+
 main {
     margin: 5% 10%;
-    /*border: 10px var(--red) solid; */
     color: var(--navy);
     display:flex;
     flex-wrap: wrap;
@@ -74,6 +76,7 @@ main {
 
     section {
         padding: 20px;
+        /* border will be removed once quality images are added */
         border-left: 10px var(--red) solid;
         border-radius: 15px;
         margin-bottom: 10%; 
@@ -92,6 +95,7 @@ main {
     }
 }
 
+/* needs a proper-sized image in the future */
 #contact-img {
     position:relative;
     height: 200px;
@@ -102,6 +106,8 @@ main {
     margin: 10px;
 }
 
+/* will be fixed to format the page better, 
+once the neccessary images are added */
 .example {
     width: 50%;
     border: 3px #f4394f solid;
@@ -111,6 +117,7 @@ main {
     flex-direction: row;
 }
 
+/* for the biggest image */
 #main-img {
     flex: wrap;
     flex-wrap: wrap;
@@ -131,6 +138,8 @@ footer {
     }
 }
 
+/* needs a color for already visited link */
+/* more functional links to be added in the future */
 footer ul li{
     display: inline-block;
     padding: 15px;
@@ -141,6 +150,7 @@ footer ul li{
     }
 }
 
+/* needs to be fiddled with */
 @media screen and (max-width: 500px){
     .example {
         width: 10%;
