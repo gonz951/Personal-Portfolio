@@ -34,6 +34,7 @@ nav ul li {
     padding: 15px;
     font-size: 135%;
     margin: 10px;
+    list-style: none;
     a {
         color: var(--cream);
         text-decoration: none;
@@ -81,6 +82,7 @@ main {
 
     p {
         line-height: 25px;
+        margin-bottom: 15px;
     }
 
     h2 {
@@ -133,6 +135,7 @@ footer ul li{
     display: inline-block;
     padding: 15px;
     font-size: 115%;
+    list-style: none;
     a {
         color: var(--highlight);
     }
