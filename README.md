@@ -1,25 +1,10 @@
-The start of a README for my portfolio
-
-Link to a yoitube video I used for the underline transitions in nav
-https://www.youtube.com/watch?v=Kz96odltLQI !!
-https://www.geeksforgeeks.org/how-to-wrap-the-text-around-an-image-using-html-and-css/ !!
-https://www.tutorialspoint.com/how-to-create-links-to-sections-within-the-same-page-in-html !!
-https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=%F0%9F%A4%96%20SheCodes%20Athena%20says%3A&text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. !!
-
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide !!
-
-https://www.educative.io/answers/how-to-add-a-link-to-an-image-in-html !!
-
 # Personal-Portfolio
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This website was made to be used as the place I keep all my websites; a portfolio. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+It gave me a place to store my assignments, an opportunity to review the things I learned in the past couple weeks, and a challenge. Most of my learning was concerning CSS and links, mostly figuring out how to place everything on a page without it looking awkward. Things on this page are subject to change in the future, design-wise, but I feel satisfied for now.
 
 ## Table of Contents (Optional)
 
